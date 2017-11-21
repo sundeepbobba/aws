@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.devopstracker</groupId>
   <artifactId>aws</artifactId>
-  <version>0.0.6</version>
+  <version>0.0.5-SNAPSHOT</version>
   <url>https://github.com/sundeepbobba/aws</url>
   <scm>
 	<url>https://github.com/sundeepbobba/aws</url>
