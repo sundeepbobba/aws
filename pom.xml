@@ -28,11 +28,11 @@
     <repositories>
 	 <repository>
          <id>samplerelease</id>
-         <url>http://192.168.0.20:8081/nexus/repositories/samplerelease/</url>
+         <url>http://54.197.22.156/nexus/repositories/samplerelease/</url>
          </repository>
 	 <repository>
          <id>sample</id>
-         <url>http://192.168.0.20:8081/nexus/repositories/sample/</url>
+         <url>http://54.197.22.156/nexus/repositories/sample/</url>
          <snapshots>
          <enabled>true</enabled>
 	 </snapshots>
@@ -42,12 +42,12 @@
       <repository>
          <id>samplerelease</id>
          <name>Internal Releases</name>
-         <url>http://192.168.0.20:8081/repository/samplerelease/</url>
+         <url>http://54.197.22.156:8081/repository/samplerelease/</url>
       </repository>
       <snapshotRepository>
          <id>sample</id>
          <name>Internal Snapshot Releases</name>
-         <url>http://192.168.0.20:8081/repository/sample/</url>
+         <url>http://54.197.22.156:8081/repository/sample/</url>
       </snapshotRepository>
     </distributionManagement>
     <dependencies>
